@@ -1,1 +1,1 @@
-# Data_Analysis_Compitition
+# Data_Analysis_Competition
